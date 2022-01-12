@@ -2,7 +2,7 @@ import React, {useEffect, useState} from 'react';
 import {
   ActivityIndicator,
   FlatList,
-  Text,
+  Text, 
   View,
   StyleSheet,
 } from 'react-native';
